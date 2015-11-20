@@ -12,56 +12,56 @@ This is a suggested [schedule]().
     </tr>
     <tr>
         <td>6:00-6:15</td>
-        <td>Introduction</td>
+        <td>Student Welcome and Sign-in</td>
         <td>
            
         </td>
     </tr>
     <tr>
         <td>6:15-6:30</td>
-        <td>Design Thinking</td>
+        <td>Introductions and Games</td>
         <td>
             
         </td>
     </tr>
     <tr>
         <td>6:30-6:45</td>
-        <td>Class Vision, Expectations & Connection to Design Thinking</td>
+        <td>Career/Interactive Vision, Expectations & Purpose</td>
         <td>
            
         </td>
     </tr>
     <tr>
         <td>6:45-7:00</td>
-        <td>Lunch</td>
+        <td>Communication Mini-Lesson</td>
         <td>
             
         </td>
     </tr>
     <tr>
         <td>7:00-7:15</td>
-        <td>How Constraints Fuel Creativity</td>
+        <td>Work Time</td>
         <td>
           
         </td>
     </tr>
     <tr>
         <td>7:15-7:30</td>
-        <td>The Art of Brainstorming</td>
+        <td>Final Thoughts/ Debrief</td>
         <td>
             
         </td>
     </tr>
     <tr>
         <td>7:30-7:45</td>
-        <td>Final Thoughts</td>
+        <td>Project Time</td>
         <td>
            
         </td>
     </tr>
     <tr>
         <td>7:45-8:00</td>
-        <td>Debrief</td>
+        <td>Coaches Debrief</td>
         <td>
            
         </td>
