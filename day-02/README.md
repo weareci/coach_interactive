@@ -67,13 +67,13 @@ This is a suggested [schedule]().
         </td>
     </tr>
 </table>
-## Day One Plan
+## Day Two Plan
 
 ###Resources
-[Day One Guide]()<br>
-[Day One Presentation]()
+[Day Two Guide]()<br>
+[Day Two Presentation]()
 
-###Before Class One:
+###Before Class:
 
 
 ###Day Before:
