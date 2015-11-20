@@ -10,7 +10,7 @@ Here you'll find:
 
 ##Course Outline
 
-###[Day 1 - ](day-01)
+###[Day 1 - Introductions and Communication Workshop](day-01)
 
 ###[Day 2 - ](day-02)
 
