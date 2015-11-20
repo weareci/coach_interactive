@@ -2,7 +2,7 @@
 
 ##Overview
 
-This repository will act as a course guide/masterplan for Coach Interactive. 
+This repository will act as a course guide for Coach Interactive. 
 Here you'll find:
 
 + A course outline listing days and topics
