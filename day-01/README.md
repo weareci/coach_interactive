@@ -17,7 +17,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:00-6:15</td>
         <td>Student Welcome and Sign-in</td>
         <td>
-           <a href="https://docs.google.com/a/campinteractive.org/spreadsheets/d/1vJ7X8OEnyG9Wr8XG1Ww210Ocgmzxu2p4Py1rMr6u09Y/edit?usp=sharing"> List of Games </a>
+           <a href="https://docs.google.com/a/campinteractive.org/spreadsheets/d/1vJ7X8OEnyG9Wr8XG1Ww210Ocgmzxu2p4Py1rMr6u09Y/edit?usp=sharing"> Sign in Sheet </a>
         </td>
     </tr>
     <tr>
