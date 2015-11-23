@@ -10,13 +10,13 @@ Here you'll find:
 
 ##Course Outline
 
-###[Day 1 - Introductions and Communication Workshop](day-01)
+###[Session 1 - Introductions and Communication Workshop](session-01)
 
-###[Day 2 - ](day-02)
+###[Session 2 - ](session-02)
 
-###[Day 3 - ](day-03)
+###[Session 3 - ](session-03)
 
-###[Day 4 - ](day-04)
+###[Session 4 - ](session-04)
 
-###[Day 5 -  ](day-05)
+###[Session 5 -  ](session-05)
 
