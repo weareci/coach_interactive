@@ -5,7 +5,7 @@
 
 ## Schedule
 
-This is a [AGENDA](https://docs.google.com/a/campinteractive.org/document/d/1UvANRE33xv8IOEuGQjOMyQPEP06qbMeznSwHkiLdnbw/edit?usp=sharing). 
+This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/document/d/1UvANRE33xv8IOEuGQjOMyQPEP06qbMeznSwHkiLdnbw/edit?usp=sharing). 
 
 <table>
     <tr>
@@ -67,7 +67,7 @@ This is a [AGENDA](https://docs.google.com/a/campinteractive.org/document/d/1UvA
         <td>7:45-8:00</td>
         <td>Coaches Debrief</td>
         <td>
-           [Debrief Guide](https://docs.google.com/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit#)
+           [Debrief](https://docs.google.com/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit#)
         </td>
     </tr>
 </table>
