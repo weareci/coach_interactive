@@ -1,6 +1,6 @@
 # Day 1
 
-##Student Goals
+##Student Outcomes
 
 
 ## Schedule
@@ -24,7 +24,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:15-6:30</td>
         <td>Introductions and Games</td>
         <td>
-            [List of Games](https://docs.google.com/document/d/1yQZ2ZT-ju1Iudf-AJiEAwq2y110r5FUthSXDgI0cPrY/edit)
+            [List of Games](https://docs.google.com/a/campinteractive.org/document/d/1yQZ2ZT-ju1Iudf-AJiEAwq2y110r5FUthSXDgI0cPrY/edit?usp=sharing)
         </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>7:45-8:00</td>
         <td>Coaches Debrief</td>
         <td>
-           [Debrief](https://docs.google.com/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit#)
+           [Debrief](https://docs.google.com/a/campinteractive.org/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit?usp=sharing)
         </td>
     </tr>
 </table>
