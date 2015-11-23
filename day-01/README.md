@@ -51,9 +51,8 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
     <tr>
         <td>7:15-7:30</td>
         <td>Final Thoughts/ Debrief</td>
-            [Student Survey](https://docs.google.com/a/campinteractive.org/forms/d/1kVX-GLm1-eUFn_aR5pFcgsNYYrWLXwUlVP_OSkLGXj4/viewform)
         <td>
-            
+            [Student Survey](https://docs.google.com/a/campinteractive.org/forms/d/1kVX-GLm1-eUFn_aR5pFcgsNYYrWLXwUlVP_OSkLGXj4/viewform)
         </td>
     </tr>
     <tr>
