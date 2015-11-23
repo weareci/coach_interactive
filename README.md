@@ -7,6 +7,7 @@ Here you'll find:
 
 + A course outline listing days and topics
 + [Topics/Sign Up Sheet](https://docs.google.com/a/campinteractive.org/document/d/1peUfyjZzFybivN3OjjstwbhmTqDrRDD2qZ81e6jc0wc/edit?usp=sharing)
++ [Upcoming Events](http://www.weare.ci/events/)
 + A guide for each day listing
 
 ##Course Outline
