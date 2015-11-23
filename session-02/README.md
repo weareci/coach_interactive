@@ -1,4 +1,4 @@
-# Day 2
+# Session 2
 
 ## Schedule
 
