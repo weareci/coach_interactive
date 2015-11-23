@@ -12,11 +12,6 @@ Here you'll find:
 
 ###[Session 1 - Introductions and Communication Workshop](session-01)
 
-###[Session 2 - ](session-02)
+###[Session 2 - TBA ](session-02)
 
-###[Session 3 - ](session-03)
-
-###[Session 4 - ](session-04)
-
-###[Session 5 -  ](session-05)
 
