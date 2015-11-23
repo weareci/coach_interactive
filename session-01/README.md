@@ -1,4 +1,4 @@
-# Day 1
+# Session 1
 
 ##Student Outcomes
 
