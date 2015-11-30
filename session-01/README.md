@@ -29,21 +29,21 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
     </tr>
     <tr>
         <td>6:30-6:45</td>
-        <td>Proffessional Introductions</td>
+        <td>Professional Introductions Mini-Lesson</td>
         <td>
            
         </td>
     </tr>
     <tr>
         <td>6:45-7:00</td>
-        <td>Communication Mini-Lesson</td>
+        <td>Email Mini-Lesson</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing"> Presentation </a>
         </td>
     </tr>
     <tr>
         <td>7:00-7:15</td>
-        <td>Work Time</td>
+        <td>Work Time / Dinner</td>
         <td>
           
         </td>
