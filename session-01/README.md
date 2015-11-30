@@ -17,7 +17,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:00-6:15</td>
         <td>Student Welcome and Sign-in</td>
         <td>
-           <a href="https://docs.google.com/a/campinteractive.org/spreadsheets/d/1vJ7X8OEnyG9Wr8XG1Ww210Ocgmzxu2p4Py1rMr6u09Y/edit?usp=sharing"> Sign in Sheet </a>
+           <a href="bit.ly/ci-sign"> Sign in Sheet </a>
         </td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:45-7:00</td>
         <td>Communication Mini-Lesson</td>
         <td>
-            
+            <a href="https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing"> Presentation </a>
         </td>
     </tr>
     <tr>
@@ -73,8 +73,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
 </table>
 
 ###Resources
-[Session One Guide]()<br>
-[Session One Presentation]()
+[Session One Presentation](https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing)
 
 ###Coach Prep:
 
