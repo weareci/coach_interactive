@@ -1,7 +1,12 @@
 # Session 1
 
 ##Student Outcomes
-
+<ul>
+    <li>Establish meeting purpose and vision </li>
+    <li>Create a personal introduction  </li>
+    <li>Make a professional email </li>
+    <li>Create a signature line </li>
+</ul>
 
 ## Schedule
 
