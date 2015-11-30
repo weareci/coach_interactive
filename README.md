@@ -1,5 +1,11 @@
 # coach_interactive
 
+##Details
+Every other Tuesday at [Work Better - Park Ave South](https://www.google.com/maps/place/Work+Better+-+Park+Ave+South/@40.745181,-73.9854017,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259a7ff7f6b87:0xee805ce25b3cb8aa)<br>
+6:00pm - 8:00pm <br>
+460 Park Ave South <br>
+Floor 12 <br>
+
 ##Overview
 
 This repository will act as a course guide for Coach Interactive. 
