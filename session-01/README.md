@@ -31,7 +31,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:30-6:45</td>
         <td>Professional Introductions Mini-Lesson</td>
         <td>
-           
+            <a href="https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing"> Presentation </a>
         </td>
     </tr>
     <tr>
