@@ -22,14 +22,14 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
     </tr>
     <tr>
         <td>6:15-6:30</td>
-        <td>Introductions and Games</td>
+        <td>Career/Interactive Vision, Expectations & Purpose</td>
         <td>
             <a href="https://docs.google.com/a/campinteractive.org/document/d/1yQZ2ZT-ju1Iudf-AJiEAwq2y110r5FUthSXDgI0cPrY/edit?usp=sharing"> List of Games </a>
         </td>
     </tr>
     <tr>
         <td>6:30-6:45</td>
-        <td>Career/Interactive Vision, Expectations & Purpose</td>
+        <td>Proffessional Introductions</td>
         <td>
            
         </td>
