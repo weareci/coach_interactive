@@ -17,7 +17,7 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
         <td>6:00-6:15</td>
         <td>Student Welcome and Sign-in</td>
         <td>
-           <a href="bit.ly/ci-sign"> Sign in Sheet </a>
+           <a href="bit.ly/ci-sign"> Sign In  </a>
         </td>
     </tr>
     <tr>
