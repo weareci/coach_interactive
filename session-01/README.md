@@ -58,16 +58,16 @@ This is the [Session One Agenda](https://docs.google.com/a/campinteractive.org/d
     </tr>
     <tr>
         <td>7:30-7:45</td>
-        <td>Project Time</td>
+        <td>Coaches Debrief</td>
         <td>
-           
+           <a href="https://docs.google.com/a/campinteractive.org/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit?usp=sharing"> Debrief </a>
         </td>
     </tr>
     <tr>
         <td>7:45-8:00</td>
-        <td>Coaches Debrief</td>
+        <td>Clean Up</td>
         <td>
-            <a href="https://docs.google.com/a/campinteractive.org/document/d/1DPrYP7QbETxPnKjfBLP_ZeuEvbim8UnaXd1tA3tqdEs/edit?usp=sharing"> Debrief </a>
+            
         </td>
     </tr>
 </table>
