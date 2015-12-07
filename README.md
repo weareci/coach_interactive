@@ -17,8 +17,8 @@ Here you'll find:
 
 ##Course Outline
 
-###[Session 1 - Introductions and Communication Workshop](session-01)
+###[Session 1 - Introductions  Workshop](session-01)
 
-###[Session 2 - TBA ](session-02)
+###[Session 2 - Email Workshop](session-02)
 
 
