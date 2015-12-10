@@ -70,11 +70,11 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
         </td>
     </tr>
 </table>
-## Day Two Plan
+## Session Two Plan
 
 ###Resources
-[Day Two Agenda](https://docs.google.com/document/d/1uHqFERhMzgQAh7Nj3q11PgTFLDhlvC0jasuusf3tuNI/edit)<br>
-[Day Two Presentation](https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing)
+[Session Two Agenda](https://docs.google.com/document/d/1uHqFERhMzgQAh7Nj3q11PgTFLDhlvC0jasuusf3tuNI/edit)<br>
+[Session Two Presentation](https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing)
 
 ###Before Class:
 
