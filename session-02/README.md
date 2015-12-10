@@ -21,7 +21,7 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
         <td>6:05-6:30</td>
         <td>Personal Pitch Practice</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing"> Presentation </a>
+            <a href="https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing"> Presentation </a>
             <a href=https://docs.google.com/document/d/1zJG_eyVw81Rt-uwu6kQzWDEgcLgMGtzkVqhWxeZoJhs/edit> Lesson Plan </a>
         </td>
     </tr>
@@ -72,7 +72,7 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
 
 ###Resources
 [Day Two Agenda](https://docs.google.com/document/d/1uHqFERhMzgQAh7Nj3q11PgTFLDhlvC0jasuusf3tuNI/edit)<br>
-[Day Two Presentation](https://docs.google.com/presentation/d/1JIMqvu9_yd9bzQQkJOlrU_VO1j7fZg1HE-_fQNvc_dE/edit?usp=sharing)
+[Day Two Presentation](https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing)
 
 ###Before Class:
 
