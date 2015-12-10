@@ -1,4 +1,6 @@
 # Session 2
+Wednesday, December 16th 
+6pm - 8pm
 
 ## Schedule
 
