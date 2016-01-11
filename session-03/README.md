@@ -23,8 +23,8 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
         <td>6:20-6:50</td>
         <td>Email Lesson</td>
         <td>
-            <a href="https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing"> Presentation </a>
-            <a href=https://docs.google.com/document/d/1zJG_eyVw81Rt-uwu6kQzWDEgcLgMGtzkVqhWxeZoJhs/edit> Lesson Plan </a>
+            <a href="https://drive.google.com/open?id=1bXRnMCHgfAIvqBmT8nf8cko5vA209Y3HCDaNCOFKomA"> Presentation </a>
+            <a href="https://drive.google.com/open?id=1SNuR8xmvMScqbvdzqn_B5xtsh0YAKgTaqY-CF5yPzLU"> Lesson Plan </a>
         </td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
         <td>7:00 - 7:20</td>
         <td>Email Worktime</td>
         <td>
-            <a href="https://docs.google.com/document/d/1ig4IktiwWK5UXzf0oNBJBGXHwqFte6JCyVMn2XCuQvk/edit"> Lesson Plan </a>
+            
         </td>
     </tr>
     <tr>
@@ -67,8 +67,8 @@ This is a suggested [schedule](https://docs.google.com/document/d/1uHqFERhMzgQAh
 ## Session Three Plan
 
 ###Resources
-[Session Two Agenda](https://docs.google.com/document/d/1uHqFERhMzgQAh7Nj3q11PgTFLDhlvC0jasuusf3tuNI/edit)<br>
-[Session Two Presentation](https://docs.google.com/presentation/d/1sirv_p_7NQ9rQcSljB26IFjFsLDyudHoyfZW9DxY-Lw/edit?usp=sharing)
+[Session Three Agenda](https://drive.google.com/open?id=1DD75SiACKZ7BxDW5okSwgLrXBZOPoO0CA9IQyTv3Opg)<br>
+[Session Three Presentation](https://drive.google.com/open?id=1bXRnMCHgfAIvqBmT8nf8cko5vA209Y3HCDaNCOFKomA)
 
 ###Before Class:
 
