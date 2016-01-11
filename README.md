@@ -19,6 +19,6 @@ Here you'll find:
 
 ###[Session 1 - Introductions  Workshop](session-01)
 
-###[Session 2 - Email Workshop](session-02)
+###[Session 2 - Personal Pitch Workshop](session-02)
 
-
+###[Session 3 - Email Workshop](session-03)
